@@ -1,0 +1,102 @@
+.box{position: relative;}
+
+.text{
+    display: flex;
+    justify-content: center;
+}
+.text2{
+    position: absolute;
+    left: 500px;
+}
+.input{
+    position: absolute;
+    left: 605px;
+    top: 75px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+.btn{
+    position: absolute;
+    left: 62%;
+    top: 80px;
+    width: 80px;
+    height: 25px;
+}
+
+.home{
+    border: 2px solid black;
+    width: 280px;
+    height: 280px;
+    border-radius: 10px;
+    position: absolute;
+    top: 230px;
+    left: 50px;
+}
+.text3{
+    position: absolute;
+    top: 150px;
+    left: 110px;
+}
+.texts{
+    position: absolute;
+    top: 200px;
+    left: 110px;
+}
+.img{
+    position: absolute;
+    left: 60px;
+    top: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+
+
+.home2{
+    border: 2px solid black;
+    width: 280px;
+    height: 280px;
+    border-radius: 10px;
+    position: absolute;
+    top: 230px;
+    left: 430px;
+}
+
+.texts2{
+    position: absolute;
+    top: 200px;
+    left: 110px;
+}
+
+.home3{
+    border: 2px solid black;
+    width: 280px;
+    height: 280px;
+    border-radius: 10px;
+    position: absolute;
+    top: 230px;
+    left: 810px;
+}
+
+.texts3{
+    position: absolute;
+    top: 200px;
+    left: 110px;
+}
+
+.home4{
+    border: 2px solid black;
+    width: 280px;
+    height: 280px;
+    border-radius: 10px;
+    position: absolute;
+    top: 230px;
+    left: 1190px;
+}
+
+.texts4{
+    position: absolute;
+    top: 200px;
+    left: 110px;
+}
